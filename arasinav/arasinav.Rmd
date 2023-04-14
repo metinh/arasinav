@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Sera gazı artışı ve onun dünyaya olan etkileri"
 author: 
-  - İsim Soyisim[^1]
+  - METIN HACIYEV[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,32 +32,192 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
-
-# Vize Hakkında Önemli Bilgiler
-
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
+[^1]: 20080699, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
-
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+İnsan faaliyetlerinden oluşan sera gazı etkilerinin; doğaya verdiği tahribatını, insan ve canlıların yaşamındaki olumsuz etkilerini belirtmek amacıyla bu makale hazırlanmıştır.Konu,çok önemli ve dünya gündeminde olması için hazırlanmıştır.Sera gazının artışını ve etkilerinin ne kadar önemli olduğunu gösteren bir makaledir.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Dünya üzerinde devam eden iklim değişim süreçleri, son yıllarda birçok araştırmaya konu olmuş ve 
+değişen iklim beraberinde birçok bilimsel ve politik tartışmalara zemin hazırlamıştır. Sera gazlarının dünya üzerinde olan negatif etkileri göz önünde bulundurulmuştur.
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+Dünya atmosferi çeşitli gazlardan oluşur. Ayrıca küçük miktarlarda asal gazlar da bulunur. Güneşten 
+gelen ışınlar (ısı ışınları, kısa dalgalı ışınlar) atmosferi geçerek yeryüzünü ısıtır. Atmosferdeki gazlar yeryüzündeki ısının bir kısmını tutar ve yeryüzünün ısı kaybına engel olur. (CO2
+ havada en çok ısı tutma 
+özelliği olan gazdır.) Atmosferin, ışığı geçirme ve ısıyı tutma özelliği vardır. Atmosferin ısıyı tutma yeteneği sayesinde suların sıcaklığı dengede kalır. Böylece nehirlerin ve okyanusların donması engellenmiş olur. Bu şekilde oluşan atmosferin ısıtma ve yalıtma etkisine sera etkisi denir. Atmosfer cam 
+seralara benzer bir özellik gösterir.
+Son yıllarda atmosferdeki CO2
+ miktarı hava kirlenmesine bağlı olarak hızla artmaktadır. Metan, ozon ve 
+kloroflorokarbon (CFC) gibi sera gazları çeşitli insan aktiviteleri ile atmosfere katılmaktadır. Bu gazların 
+tamamının ısı tutma özelliği vardır.
+CO2 ve ısıyı tutan diğer gazların miktarındaki artış, atmosferin ısının yükselmesine sebep olmaktadır. 
+Bu da küresel ısınma olarak ifade edilir. Bu durumun, buzulların erimesi ve okyanusların yükselmesi 
+gibi ciddi sonuçlar doğuracak iklim değişmelerine yol açmasından endişe edilmektedir.
+Küresel ısınma, dünyadaki yaşamın sürdürüldüğü ekosistemlerin 
+bütüncül yapısını tehdit eden, 
+binlerce bitki ve hayvan türlerinin 
+yok olmasına neden olan , insan 
+yaşamını etkileyen, aşırı sıcaklık, 
+yangın, susuzluk, kuraklaşma gibi 
+diğer meteorolojik afetlerin artmasına sebep olan bir oluşumdur. [@ozmen2009sera]
 
 
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
+Yukarıda ayrıntılı şekilde bahsedildiği gibi; Atmosferde, ozonun (O3) yoğunluğunu azaltan kloroflorokarbon (CFC) gazları ve karbondioksit (CO2), metan (CH4), diazot monoksit (N2O) gibi 
+sera gazlarının miktarlarında önemli ölçüde artışlar olmuştur. Bu artışlardan dolayı atmosferde 
+kuvvetlenen sera işlemi beraberinde günümüzdeki küresel ısınma ve küresel iklim değişimi 
+problemini ortaya çıkarmıştır.
+Böylece, yeryüzünde 19. yüzyılın ortalarından günümüze kadar olan süre içinde küresel ortalama hava sıcaklığı 0.3 - 0.6 C0
+artmıştır. Araştırmalara göre gelecek 40 yıl içindeki her 10 yılda 0.1 C0 den daha fazla miktarda küresel ısınmanın devam edeceği tahmin edilmektedir. Bu ısınmanın olası etkileri:
+
+Ortalama sıcaklık değerindeki artış; buna bağlı olarak yağışların azalması, kuraklığın ve çölleşmeye varan sürecin işlemesine neden olması
+
+Yer üstü ve yer altı sularının değişimi, toprağın yapısının bozulması.
+
+Büyük okyanus akıntılarının karakteristiğinde meydana gelecek değişimler.
+
+Sıcak hava dalgalarından birçok canlı ve bitki türlerinin yaşamsal süreçlerinin etkilenmesi 
+ve yok olması, çok sayıda ölümlerin olması.
+
+Küresel ısınmaya dayalı olarak Kuzey Yarım Küre’deki bitki türlerinin yaşamlarını devam ettirebilmek için yılda 1 km. kuzeye doğru yayılmalarının gerektiği çeşitli modelleme çalışmalarına dayalı olarak hesaplanmıştır. Ancak bitki türlerinin bu hızlı yayılışa uyum sağlayabilmesi, sorun 
+olarak tartışılmaktadır.
+
+Dünya ekonomisini ve sosyoekonomik yapısını olumsuz etkilemesi ve küresel ekonomik kayıpların 
+oluşması.[@ozmen2009sera]
+
+
+
+Hızla artan dünya nüfusu ve kontrolsüz sanayileşme süreci, sağlıksız kentleşme, bölgesel 
+savaşlar, verimi artırmak amacıyla kullanılan tarım ilaçları, bilinçsiz gübreleme ve deterjanlar 
+gibi kimyasal maddeler giderek çevreyi kirletmeye başlamış, bunun sonucu olarak büyük oranda 
+kirlenen hava, su ve toprak, canlılar için zararlı olabilecek boyutlara ulaşmıştır. Sanayi 
+devrimiyle birlikte fosil yakıtların kullanımının giderek artması ve ormanların hızla yok 
+edilmesi bu olumsuz etkileri neredeyse önüne geçilemeyecek halde ciddi boyutlara taşımıştır. 
+Dünyanın mevcut enerji kayaklarının yaklaşık %85’ini fosil yakıtlarının (petrol, kömür, doğal 
+gaz vb) oluşturduğu  düşünüldüğünde, küresel ısınmanın tek nedeninin, başta fosil yakıtlardan kaynaklanan karbondioksit olmak üzere atmosferdeki sera gazlarının, 
+büyük ölçüde endüstriyel (enerji ve ulaşım dahil olmak üzere) ve bir ölçüde de tarımsal insan 
+etkinliklerinden kaynaklanan artış olduğu söylenebilir.
+Küresel ısınma son yıllarda dünya gündemini meşgul eden uzun tartışmalara sebep olan bilimsel 
+ve politik bir mesele haline gelmiştir. Küresel ısınmayı, atmosferde sera gazlarının (CO2, CH4, 
+N2O vb.) konsantrasyonlarının artmasıyla bu moleküllerin güneş ışınlarını hapsederek yeryüzü 
+sıcaklığını yükseltmesi olarak tanımlanabilir. Güneşten, gezegenimizin yüzeyine ulaşan kısa 
+dalgalı radyasyon, ışıktan ısıya dönüşmek suretiyle dünyayı ısıtır. Yeryüzü, bu radyasyonun bir 
+kısmını uzun dalgalı kızılötesi ışın olarak uzaya geri yansıtır. Bu uzun dalgalı kızılötesi ışınların 
+büyük bölümü uzaya geri dönerken, bir bölümü dünya atmosferinde su buharı, karbondioksit ve 
+metan gibi sera etkisi yaratan gaz molekülleri tarafından soğurulur ve atmosferde hapsolur, 
+böylece dünyanın yüzeyi ve atmosfer, olması gerekenden daha sıcak bir hal alır. Moleküller 
+cam görevi yapar ve ısınan hava dünya atmosferi içerisinde kalır. Bu olay, güneş ışınlarıyla 
+ısınan ama içinde ısıyı dışarıya bırakmayan seralara benzetildiğinden dolayı doğal sera etkisi 
+olarak bilinir. Sera etkisi, dünya sıcaklığının dengede kalması açısından son derece önemli bir 
+mekanizma olmasına karşın son yıllarda yapılan yanlış uygulamalar sonucunda sanayileşme ve 
+fosil yakıtlarının kullanımından dolayı bu gazların oranında artışlar olmuş ve bu nedenle sera 
+etkisi iklim değişikliği ile birlikte olumsuz bir şekilde anılır olmuştur. Atmosferde sera etkisi 
+olmasaydı dünya ortalama sıcaklığı 255 K veya -18 °C olacak ve belki de dünya üzerinde yaşam 
+mümkün olmayacaktı. Atmosferde meydana gelen bu mekanizma nedeniyle uzun dalga boylu 
+yansımanın bir kısmı tutulmakta ve dünya ortalama sıcaklığı +15 °C düzeyinde olmaktadır.[@korkmaz2007kuresel]
+
+
+Türkiye gibi gelişmekte olan ülkelerde toprağın tarımsal üretkenliğinin azalması tarım, mera, 
+orman vb alanların amacı dışında kullanılarak sürdürülebilirliliğin ve verimliliğin azalmasına 
+neden olmaktadır. Dolayısıyla devam eden bozunma süreci toprak kalitesini de azaltmaktadır. 
+Tarımsal faaliyetler, dünya üzerinde artan sera gazlarının yaklaşık %20’sinden sorumludur 
+(Pathak ve Wassmann, 2007). Tarımsal faaliyetler sonucu (enerji tüketimi, üretim, hayvan 
+yetiştirme, gübreleme, ilaç vb) sera gazlarından artmasından özellikle CO2, CH4 ve N2O 
+sorumlu tutulmaktadır (Houghton, 2003). Tarımsal uygulamalar ve üretimin, küresel ısınmaya 
+olan olumsuz etkileri yanı sıra artan dünya nüfusunun sağlıklı bir biçimde yaşamanı
+sürdürebilmesi açısından tarım son derece önemlidir. Yanlış arazi kullanımı ve bilinçsiz ve aşırı
+gübreleme gibi tarımsal faaliyetler sonucunda karbon kaynağı olan topraklardan sera gazı
+salınımları artmaktadır (Lal, 2006). 
+Tarımsal uygulamaların küresel ısınmaya etkilerini azaltmak için organik karbon ve toprak 
+kalitesi arasında da mevcut olan ilişkiden faydalanılması yarar sağlayacaktır. Bozulan ekosistem 
+ve tarımsal topraktaki organik karbon da çözünerek CO2 ve CH4 formunda atmosfere salınmakta 
+ve iklim değişikliği nedenleri arasında yer almaktadır. Metan gazı CO2 hariç tutulduğunda 
+küresel ısınmadan en fazla sorumlu olan sera gazı haline gelmekte ve CO2 gazına göre sera 
+etkisi oluşturmada 21 kat daha etkili olmaktadır. Metan gazını kaynağı ise hayvan yetiştiriciliği 
+ve çeltik tarımıdır. Artan atmosfer sıcaklığı ve sera gazları konsantrasyonu düşük yağış ile 
+birleştiğinde bitkilerin solunumlarını ve stomal fonksiyonlarını hem de toprakların organik 
+karbon içeriğini olumsuz yönde etkilemektedir. Bu nedenlerle toprakların doğru ve verimli 
+kullanılarak, organik karbon oluşumunun ve tutulmasının arttırılmasının, küresel ısınma, açlık, 
+erozyon, çölleşme, ormansızlaşma ve tarım alanı kaybı gibi sorunların çözümü için yarar 
+sağlayabilir. Ormanlar, gerek atmosfere bırakılan sera gazı yayılımlarının azaltılmasında, 
+gerekse atmosferden sera gazı emme yoluyla “karbon tutucu” olarak önemli rol oynarlar. 
+Karalarda tutulan karbonun yaklaşık %67’si orman ekosistemlerinde depolanmış durumdadır. 
+Bitki örtüsü tarafından tutulan karbonun %75’i de ormanlarda depolanmıştır. Ayrıca, çok uzun 
+ömürlü odun ürünleri (ahşap binalar, mobilya vb.) çürüyüp yanmadıkları sürece karbon depoları
+olarak kalmaktadır. Örneğin anız yakılması, hem organik karbonun parçalanmasına hem de 
+biyolojik çeşitliliğin azalmasına neden olmaktadır. Bilim adamları sera gazlarının üretiminin 
+azaltılması hatta durdurulması halinde bile sera gazlarının yaşam sürelerine göre, etkisinin bir 
+süre daha devam edeceğini belirtmektedirler.[@korkmaz2007kuresel]
+
+
+Yapılan çalışmada, toplam sera gazı üretiminin %32 endüstriyel proseslerin, %30’unu enerji 
+sektörünün, %16’sını ulaştırmanın, %16’sını diğer sektörlerin ve %6’sını da tarım sektörünün 
+oluşturduğunu belirtmişlerdir. Uluslararası İklim Değişikliği Paneli’nin araştırmaları, biyolojik 
+çeşitlilik zenginliği nedeniyle Türkiye’ye özel önem verilmesini ve iklim değişikliğinin 
+Türkiye’deki etkilerinin özenle araştırılması gerektiğini vurgulamaktadır. Türkiye’nin içinde 
+bulunduğu bölgenin su kıtlığı, kuraklık ve toprak erozyonu sorunları ile karşı karşıya olması da, 
+Türkiye’yi küresel ısınmanın zararlı ve şiddetli etkilerini en önce yaşayacak ülkeler arasına 
+sokmaktadır. Küresel ısınma nedeniyle Türkiye’nin yaşayacağı en önemli felaket 
+kuraklıktır. Kar ve yağmur (özellikle de kar) yağışının azalması yeraltı sularının seviyesinin 
+düşmesine, dolayısıyla akarsu ve göllerin kurumasına neden olmaktadır. Bu da, Türkiye’nin 
+kalkınması ve geçimi için son derece önemli olan tarıma büyük darbe vuracak ve ülkemiz büyük 
+bir açlık ve kuraklık tehlikesi ile karşı karşıya kalacaktır.Tarımsal faaliyetler, dünya üzerinde artan sera gazlarının yaklaşık %20’sinden sorumludur.Tarımsal faaliyetler sonucu (enerji tüketimi, üretim, hayvan 
+yetiştirme, gübreleme, ilaç vb) sera gazlarından artmasından özellikle CO2, CH4 ve N2O 
+sorumlu tutulmaktadır.[@korkmaz2007kuresel]
+
+
+
+
+The impact of development of land for agriculture and agricultural production practices on emissions of greenhouse gases is reviewed and evaluated within the context of anthropogenic radiative forcing of climate. Combined, these activities are estimated to contribute about 25%, 65%, and 90% of total anthropogenic emissions of CO2, CH4, and N2O, respectively. Agriculture is also a significant contributor to global emissions of NH3, CO, and NO. Over the last 150 y, cumulative emissions of CO2 associated with land clearing for agriculture are comparable to those from combustion of fossil fuel, but the latter is the major source of CO2 at present and is projected to become more dominant in the future. Ruminant animals, rice paddies, and biomass burning are principal agricultural sources of CH4, and oxidation of CH4 by aerobic soils has been reduced by perturbations to natural N cycles. Agricultural sources of N2O have probably been substantially underestimated due to incomplete analysis of increased N flows in the environment, especially via NH3 volatilization from animal manures, leaching of NO -3, and increased use of biological N fixation.
+
+The contribution of agriculture to radiative forcing of climate is analyzed using data from the Intergovernmental Panel on Climate Change (IPCC)(base case) and cases where the global warming potential of CH4, and agricultural emissions of N2O are doubled. With these scenarios, agriculture, including land clearing, is estimated to contribute between 28–33% of the radiative forcing created over the next 100yr by 1990 anthropogenic emissions of CO2, CH4, and N2O. Analyses of the sources of agriculturally generated radiative climate forcing show that 80% is associated with tropical agriculture and that two-thirds comes from non-soil sources of greenhouse gases. The importance of agriculture to radiative forcing created by different countries varies widely and is illustrated by comparisons between the USA, India, and Brazil. Some caveats to these analyses include inadequate evaluations of the net greenhouse effects of agroecosystems, uncertainties in global fluxes of greenhouse gases, and incomplete understanding of tropospheric chemical processes.[@duxbury1994significance]
+
+The contribution of agriculture to radiative forcing of climate is analyzed using data from the Intergovernmental Panel on Climate Change (IPCC)(base case) and cases where the global warming potential of CH4, and agricultural emissions of N2O are doubled. With these scenarios, agriculture, including land clearing, is estimated to contribute between 28–33% of the radiative forcing created over the next 100yr by 1990 anthropogenic emissions of CO2, CH4, and N2O. Analyses of the sources of agriculturally generated radiative climate forcing show that 80% is associated with tropical agriculture and that two-thirds comes from non-soil sources of greenhouse gases. The importance of agriculture to radiative forcing created by different countries varies widely and is illustrated by comparisons between the USA, India, and Brazil. Some caveats to these analyses include inadequate evaluations of the net greenhouse effects of agroecosystems, uncertainties in global fluxes of greenhouse gases, and incomplete understanding of tropospheric chemical processes.[@duxbury1994significance]
+
+
+
+Global GHG emissions continued to rise between
+2010 and 2018, although the rate of emissions growth
+has slowed since 2014. GHG emissions
+were the highest in human history in 2018, reaching 58 GtCO2eq. The largest share of emissions in
+2018 came from the energy systems sector , followed by industry,
+AFOLU, transport and the operation of buildings. These estimates are based on direct emissions produced in each sector. As we discuss below,
+the industry and buildings sectors further contributed
+to emission growth indirectly, by drawing on electricity and heat production in the energy systems sector.
+GHG emissions in 2018 were about 11% higher than GHG emission levels in
+2010. One third of this increase in
+GHG emissions between 2010 and 2018 was from
+energy systems, followed by industry
+, transport , AFOLU and
+buildings.
+In terms of regions, East Asia and North America together accounted for 40% of global GHG emissions in 2018, within which emissions are dominated
+by China and the United States. The highest absolute increase between 2010 and 2018 was in Eastern
+Asia, more than double the growth of
+the next highest region, Southern Asia.
+Four regions—the Middle East, Africa, Eurasia and
+South-East Asia—accounted for the rest of the global
+emissions increase with approximately 0.5 GtCO2eq
+each. The most rapid relative growth in emissions
+since 2010 occurred in Southern Asia at 3.6% per
+year, followed by the Middle East, Eastern Asia and Eurasia. The only
+region with a decline in emissions since 2010 has been
+Europe. North America, Latin America, and developed countries in the
+Asia Pacific saw only minimal growth over this period.
+Trends by sector differ widely across regions.
+Developed countries in Asia Pacific, Europe and
+North America tend to have higher shares of emissions from energy systems, industry and transport,
+and lower shares from AFOLU. Overall emissions
+in these regions are relatively stable, apart from the
+energy systems sector in Europe and North America, which have seen gradual reductions since 2010. This general
+pattern is reversed in the case of Africa, Latin America and South-East Asia. In these regions AFOLU is
+the largest emitting sector (specifically: CO2 emissions from deforestation), yet much of the recent
+growth comes from the energy systems, industry and transportation sectors. Similarly, fast growing emissions in Eastern and Southern Asia are mainly associated with the industry, energy systems and transport
+sectors, some at rates exceeding 4%/yr.[@lamb2021review]
+
+
+
+
+
 
 \newpage
 # Kaynakça {#references}
