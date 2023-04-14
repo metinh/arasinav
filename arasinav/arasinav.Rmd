@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: 20080699, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 20080699, [Github Repo](https://github.com/metinh/arasinav.git)
 
 # Giriş
 İnsan faaliyetlerinden oluşan sera gazı etkilerinin; doğaya verdiği tahribatını, insan ve canlıların yaşamındaki olumsuz etkilerini belirtmek amacıyla bu makale hazırlanmıştır.Konu,çok önemli ve dünya gündeminde olması için hazırlanmıştır.Sera gazının artışını ve etkilerinin ne kadar önemli olduğunu gösteren bir makaledir.
@@ -139,16 +139,7 @@ birleştiğinde bitkilerin solunumlarını ve stomal fonksiyonlarını hem de to
 karbon içeriğini olumsuz yönde etkilemektedir. Bu nedenlerle toprakların doğru ve verimli 
 kullanılarak, organik karbon oluşumunun ve tutulmasının arttırılmasının, küresel ısınma, açlık, 
 erozyon, çölleşme, ormansızlaşma ve tarım alanı kaybı gibi sorunların çözümü için yarar 
-sağlayabilir. Ormanlar, gerek atmosfere bırakılan sera gazı yayılımlarının azaltılmasında, 
-gerekse atmosferden sera gazı emme yoluyla “karbon tutucu” olarak önemli rol oynarlar. 
-Karalarda tutulan karbonun yaklaşık %67’si orman ekosistemlerinde depolanmış durumdadır. 
-Bitki örtüsü tarafından tutulan karbonun %75’i de ormanlarda depolanmıştır. Ayrıca, çok uzun 
-ömürlü odun ürünleri (ahşap binalar, mobilya vb.) çürüyüp yanmadıkları sürece karbon depoları
-olarak kalmaktadır. Örneğin anız yakılması, hem organik karbonun parçalanmasına hem de 
-biyolojik çeşitliliğin azalmasına neden olmaktadır. Bilim adamları sera gazlarının üretiminin 
-azaltılması hatta durdurulması halinde bile sera gazlarının yaşam sürelerine göre, etkisinin bir 
-süre daha devam edeceğini belirtmektedirler.[@korkmaz2007kuresel]
-
+sağlayabilir.
 
 Yapılan çalışmada, toplam sera gazı üretiminin %32 endüstriyel proseslerin, %30’unu enerji 
 sektörünün, %16’sını ulaştırmanın, %16’sını diğer sektörlerin ve %6’sını da tarım sektörünün 
@@ -158,21 +149,15 @@ Türkiye’deki etkilerinin özenle araştırılması gerektiğini vurgulamaktad
 bulunduğu bölgenin su kıtlığı, kuraklık ve toprak erozyonu sorunları ile karşı karşıya olması da, 
 Türkiye’yi küresel ısınmanın zararlı ve şiddetli etkilerini en önce yaşayacak ülkeler arasına 
 sokmaktadır. Küresel ısınma nedeniyle Türkiye’nin yaşayacağı en önemli felaket 
-kuraklıktır. Kar ve yağmur (özellikle de kar) yağışının azalması yeraltı sularının seviyesinin 
-düşmesine, dolayısıyla akarsu ve göllerin kurumasına neden olmaktadır. Bu da, Türkiye’nin 
-kalkınması ve geçimi için son derece önemli olan tarıma büyük darbe vuracak ve ülkemiz büyük 
-bir açlık ve kuraklık tehlikesi ile karşı karşıya kalacaktır.Tarımsal faaliyetler, dünya üzerinde artan sera gazlarının yaklaşık %20’sinden sorumludur.Tarımsal faaliyetler sonucu (enerji tüketimi, üretim, hayvan 
-yetiştirme, gübreleme, ilaç vb) sera gazlarından artmasından özellikle CO2, CH4 ve N2O 
-sorumlu tutulmaktadır.[@korkmaz2007kuresel]
+kuraklıktır. [@korkmaz2007kuresel]
 
 
 
 
 The impact of development of land for agriculture and agricultural production practices on emissions of greenhouse gases is reviewed and evaluated within the context of anthropogenic radiative forcing of climate. Combined, these activities are estimated to contribute about 25%, 65%, and 90% of total anthropogenic emissions of CO2, CH4, and N2O, respectively. Agriculture is also a significant contributor to global emissions of NH3, CO, and NO. Over the last 150 y, cumulative emissions of CO2 associated with land clearing for agriculture are comparable to those from combustion of fossil fuel, but the latter is the major source of CO2 at present and is projected to become more dominant in the future. Ruminant animals, rice paddies, and biomass burning are principal agricultural sources of CH4, and oxidation of CH4 by aerobic soils has been reduced by perturbations to natural N cycles. Agricultural sources of N2O have probably been substantially underestimated due to incomplete analysis of increased N flows in the environment, especially via NH3 volatilization from animal manures, leaching of NO -3, and increased use of biological N fixation.
 
-The contribution of agriculture to radiative forcing of climate is analyzed using data from the Intergovernmental Panel on Climate Change (IPCC)(base case) and cases where the global warming potential of CH4, and agricultural emissions of N2O are doubled. With these scenarios, agriculture, including land clearing, is estimated to contribute between 28–33% of the radiative forcing created over the next 100yr by 1990 anthropogenic emissions of CO2, CH4, and N2O. Analyses of the sources of agriculturally generated radiative climate forcing show that 80% is associated with tropical agriculture and that two-thirds comes from non-soil sources of greenhouse gases. The importance of agriculture to radiative forcing created by different countries varies widely and is illustrated by comparisons between the USA, India, and Brazil. Some caveats to these analyses include inadequate evaluations of the net greenhouse effects of agroecosystems, uncertainties in global fluxes of greenhouse gases, and incomplete understanding of tropospheric chemical processes.[@duxbury1994significance]
-
-The contribution of agriculture to radiative forcing of climate is analyzed using data from the Intergovernmental Panel on Climate Change (IPCC)(base case) and cases where the global warming potential of CH4, and agricultural emissions of N2O are doubled. With these scenarios, agriculture, including land clearing, is estimated to contribute between 28–33% of the radiative forcing created over the next 100yr by 1990 anthropogenic emissions of CO2, CH4, and N2O. Analyses of the sources of agriculturally generated radiative climate forcing show that 80% is associated with tropical agriculture and that two-thirds comes from non-soil sources of greenhouse gases. The importance of agriculture to radiative forcing created by different countries varies widely and is illustrated by comparisons between the USA, India, and Brazil. Some caveats to these analyses include inadequate evaluations of the net greenhouse effects of agroecosystems, uncertainties in global fluxes of greenhouse gases, and incomplete understanding of tropospheric chemical processes.[@duxbury1994significance]
+The contribution of agriculture to radiative forcing of climate is analyzed using data from the Intergovernmental Panel on Climate Change (IPCC)(base case) and cases where the global warming potential of CH4, and agricultural emissions of N2O are doubled. With these scenarios, agriculture, including land clearing, is estimated to contribute between 28–33% of the radiative forcing created over the next 100yr by 1990 anthropogenic emissions of CO2, CH4, and N2O. Analyses of the sources of agriculturally generated radiative climate forcing show that 80% is associated with tropical agriculture and that two-thirds comes from non-soil sources of greenhouse gases. The importance of agriculture to radiative forcing created by different countries varies widely and is illustrated by comparisons between the USA, India, and Brazil. Some caveats to these analyses include inadequate evaluations of the net greenhouse effects of agroecosystems, uncertainties in global fluxes of greenhouse gases, and incomplete understanding of tropospheric chemical processes.
+The contribution of agriculture to radiative forcing of climate is analyzed using data from the Intergovernmental Panel on Climate Change (IPCC)(base case) and cases where the global warming potential of CH4, and agricultural emissions of N2O are doubled. With these scenarios, agriculture, including land clearing, is estimated to contribute between 28–33% of the radiative forcing created over the next 100yr by 1990 anthropogenic emissions of CO2, CH4, and N2O. Analyses of the sources of agriculturally generated radiative climate forcing show that 80% is associated with tropical agriculture and that two-thirds comes from non-soil sources of greenhouse gases.[@duxbury1994significance]
 
 
 
@@ -203,16 +188,7 @@ year, followed by the Middle East, Eastern Asia and Eurasia. The only
 region with a decline in emissions since 2010 has been
 Europe. North America, Latin America, and developed countries in the
 Asia Pacific saw only minimal growth over this period.
-Trends by sector differ widely across regions.
-Developed countries in Asia Pacific, Europe and
-North America tend to have higher shares of emissions from energy systems, industry and transport,
-and lower shares from AFOLU. Overall emissions
-in these regions are relatively stable, apart from the
-energy systems sector in Europe and North America, which have seen gradual reductions since 2010. This general
-pattern is reversed in the case of Africa, Latin America and South-East Asia. In these regions AFOLU is
-the largest emitting sector (specifically: CO2 emissions from deforestation), yet much of the recent
-growth comes from the energy systems, industry and transportation sectors. Similarly, fast growing emissions in Eastern and Southern Asia are mainly associated with the industry, energy systems and transport
-sectors, some at rates exceeding 4%/yr.[@lamb2021review]
+[@lamb2021review]
 
 
 
